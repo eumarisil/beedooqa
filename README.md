@@ -25,10 +25,8 @@ Este desafio tem como objetivo elaborar user stories e cenários de teste para a
 
 ## 👩🏽‍💻 User Stories <a name = "user_stories"></a>
 
-- US01
-- US02
-- US03
-
+- US01: Cadastro de Cursos
+- US02: Lista de Cursos
 
 ## ⛏️ Ferramentas <a name="ferramentas"></a>
 
